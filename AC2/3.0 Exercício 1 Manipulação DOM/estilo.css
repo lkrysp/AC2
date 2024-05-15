@@ -1,0 +1,6 @@
+#caixa {
+    width: 200px;
+    height: 200px;
+    margin: 20px auto;
+    background-color: #ff0000; /* Cor inicial da div */
+}

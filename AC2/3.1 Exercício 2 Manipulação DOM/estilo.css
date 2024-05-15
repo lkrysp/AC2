@@ -1,0 +1,12 @@
+#listaTarefas {
+    list-style: none; /* Remove os marcadores padrão da lista */
+    padding: 0;
+}
+
+#listaTarefas li {
+    margin-bottom: 10px; /* Espaçamento entre as tarefas */
+}
+
+#listaTarefas li.feito {
+    text-decoration: line-through; /* Tarefas concluídas riscadas */
+}

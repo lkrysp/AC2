@@ -1,0 +1,14 @@
+/* Personalize as cores, fontes e outros estilos conforme desejado */
+
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  h1, h2, h3 {
+    color: #00a1c5;
+  }
+  
+  p {
+    color: #5c0000;
+  }
+  

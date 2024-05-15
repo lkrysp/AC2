@@ -1,0 +1,43 @@
+#menuLateral {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 200px;
+    background-color: #333;
+    padding: 20px;
+    color: #fff;
+}
+
+#menuLateral ul {
+    list-style: none;
+    padding: 0;
+}
+
+#menuLateral li {
+    margin-bottom: 10px;
+}
+
+#menuLateral a {
+    display: block;
+    text-decoration: none;
+    color: #fff;
+    padding: 10px;
+}
+
+#menuLateral a:hover {
+    background-color: #555;
+}
+
+#conteudoPrincipal {
+    margin-left: 200px;
+    padding: 20px;
+}
+
+/* Estilos para as seções (adicione mais se necessário) */
+#tagsHtml, #cssFundamentos, #flexbox, #dom {
+    display: none; /* Oculta as seções por padrão */
+}
+
+.ativa {
+    display: block; /* Mostra a seção ativa */
+}
